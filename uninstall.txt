@@ -1,0 +1,11 @@
+`phpvms_radio`*sql
+../admin/modules/Radio_admin/Radio_admin.php
+../admin/templates/Radio/radio_edit_form.php
+../admin/templates/Radio/radio_header.php
+../admin/templates/Radio/radio_index.php
+../admin/templates/Radio/radio_new_form.php
+../admin/templates/Radio/sidebar_radio.php
+../admin/templates/Radio/radio_details.php
+../core/common/RadioData.class.php
+../core/modules/Radio/Radio.php
+../core/templates/radio/Radio.php
