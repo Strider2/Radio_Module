@@ -25,7 +25,7 @@ class Radio_admin extends CodonModule
         }
         else
         {
-            $this->set('Twitch', RadioData::get_radio());
+            $this->set('Radio', RadioData::get_radio());
 			      $this->set('history', RadioData::get_past_radio());
             $this->set('copyright', RadioData::getVersion());
             $this->show('Radio/radio_index.php');

@@ -3,7 +3,7 @@ $this->show('Radio/radio_header.php');
 
 echo 'Click On Station details for editing the Stream or viewing the username and parent.<hr />';
 
-echo '<h4>Streams</h4><hr />';
+echo '<h4>Radio Stations</h4><hr />';
     if(!$Radio)
     {
      echo 'No stations found';
