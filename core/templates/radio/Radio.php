@@ -24,7 +24,6 @@ if(!$radio)
 				<h3><?php echo $r->name;?></h3>
 
 			</div>
-      <!--https://radio.heavyhaulradio.online/public/hhr556/embed-->
 
 			<iframe src="<?php echo $r->url;?>" frameborder="<?php echo $r->frameborder;?>"
         allowtransparency="<?php echo $r->transparent;?>" style="width: <?php echo $r->width;?>%; min-height: <?php echo $r->height;?>px; border: 0;"></iframe>
